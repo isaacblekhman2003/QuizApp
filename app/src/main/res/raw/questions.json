@@ -1,7 +1,7 @@
 
 [
   {"question" : "Peter ruined it for the class  ", "answer": "true"},
-  {"question" : "The sat curve is trash",  "Answer" : "true"},
+  {"question" : "The sat curve is trash",  "answer" : "true"},
   {"question" : "The CollegeBoard is nonprofit", "answer": "false"},
   {"question" : "Brian Failed his calc test", "answer": "true"},
   {"question" : "Do I get work done when mr shorr is gone?", "answer": "true"},
